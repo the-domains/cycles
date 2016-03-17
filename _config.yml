@@ -1,0 +1,28 @@
+name: cycles
+favicon: null
+layout_spectrum: 0.9033963461406529
+typography_spectrum: 0.07788640353828669
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.44044426595792174
+  lightness: 0.968702673446387
+  saturation: 0.5832023113034666
+  rhythmicContrast: 0.19875003839842975
+purpose: []
